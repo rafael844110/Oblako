@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "908080166424",
+    "project_id": "oblako-12c79",
+    "storage_bucket": "oblako-12c79.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908080166424:android:a91d08f1b84f8e5e09356d",
+        "android_client_info": {
+          "package_name": "com.devclub.culinarium"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzuekcKdYZmq6pPajYuPgQkkhc2Ta0v8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

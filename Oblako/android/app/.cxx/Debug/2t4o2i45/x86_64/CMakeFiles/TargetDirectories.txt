@@ -1,0 +1,2 @@
+/Users/student/github/Cullinarium/android/app/.cxx/Debug/2t4o2i45/x86_64/CMakeFiles/edit_cache.dir
+/Users/student/github/Cullinarium/android/app/.cxx/Debug/2t4o2i45/x86_64/CMakeFiles/rebuild_cache.dir
